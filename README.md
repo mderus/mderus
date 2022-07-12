@@ -7,4 +7,5 @@ Skills: HTML / CSS / JS / React / Node / Express / SQL / (TypeScript in progress
 Currently working on an e-commerce website in Express, React + Redux, and MySQL. Take a look at my repos:
 
 Backend repo: https://github.com/mderus/js-shop-backend/tree/develop
+
 Frontend repo: https://github.com/mderus/js-shop-frontend/tree/develop
