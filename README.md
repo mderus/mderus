@@ -16,8 +16,6 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
-### Currently working on an e-commerce website in Express + React. Take a look at my repos:
+### Currently working on an e-commerce website in Express + React. Take a look at live demo and repositories:
 
-#### [Live Demo](https://cool-shortbread-f56f49.netlify.app/)
-
-#### [Backend repo](https://github.com/mderus/js-shop-backend) & #### [Frontend repo](https://github.com/mderus/js-shop-frontend)
+#### [Live Demo](https://cool-shortbread-f56f49.netlify.app/) + [Backend](https://github.com/mderus/js-shop-backend) & [Frontend](https://github.com/mderus/js-shop-frontend) repositories
