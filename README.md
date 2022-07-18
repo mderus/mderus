@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there 👋
 
 #### I'm Mateusz from Poland, learning JavaScript/TypeScript language and its frameworks. I like React and Node. I also enjoy UI, UX, and design (I used to work as a designer).
 
@@ -18,8 +18,8 @@
 
 ### Currently working on an e-commerce website in Express + React. Take a look at my repos:
 
-##### [Live Demo](https://cool-shortbread-f56f49.netlify.app/)
+#### [Live Demo](https://cool-shortbread-f56f49.netlify.app/)
 
-##### [Backend repo](https://github.com/mderus/js-shop-backend)
+#### [Backend repo](https://github.com/mderus/js-shop-backend)
 
-##### [Frontend repo](https://github.com/mderus/js-shop-frontend)
+#### [Frontend repo](https://github.com/mderus/js-shop-frontend)
