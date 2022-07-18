@@ -20,6 +20,4 @@
 
 #### [Live Demo](https://cool-shortbread-f56f49.netlify.app/)
 
-#### [Backend repo](https://github.com/mderus/js-shop-backend)
-
-#### [Frontend repo](https://github.com/mderus/js-shop-frontend)
+#### [Backend repo](https://github.com/mderus/js-shop-backend) & #### [Frontend repo](https://github.com/mderus/js-shop-frontend)
